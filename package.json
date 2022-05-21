@@ -1,0 +1,18 @@
+{
+  "name": "phototransfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lzma-native": "^8.0.6",
+    "node-liblzma": "^1.1.9",
+    "promisified-pipe": "^1.0.0"
+  }
+}
